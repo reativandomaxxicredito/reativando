@@ -1,33 +1,26 @@
 <p align="center">
-  <img src="LOGO-Maxxicredito.png" alt="MaxxiCrédito" width="160" />
+  <img src="LOGO-Maxxicredito.png" alt="MaxxiCrédito — Soluções Financeiras" width="140">
 </p>
 
-<h1 align="center">Reativando | MaxxiCrédito</h1>
-
+<h3 align="center">Reativando | MaxxiCrédito</h3>
 <p align="center">
-  Ajudamos aposentados a desbloquear o benefício do INSS.<br/>
-  Passo a passo gratuito + atendimento humano.
+  Ajudamos aposentados a desbloquear o benefício do INSS.<br>
+  <b>Passo a passo gratuito</b> + atendimento humano.
 </p>
 
 <p align="center">
   <a href="https://bit.ly/WhatsAppReativando">
-    <img
-      src="https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"
-      alt="WhatsApp — Contato"
-    />
+    <img alt="WhatsApp — Contato" src="https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
   </a>
+  &nbsp;
   <a href="https://reativando.maxxicredito.com.br">
-    <img
-      src="https://img.shields.io/badge/Site-reativando.maxxicredito.com.br-000?logo=vercel&logoColor=white&style=for-the-badge"
-      alt="Site — reativando.maxxicredito.com.br"
-    />
+    <img alt="Site — reativando.maxxicredito.com.br" src="https://img.shields.io/badge/Site-reativando.maxxicredito.com.br-000?logo=vercel&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
-<hr/>
+---
 
 ### Sobre
-Canal **Reativando • MaxxiCrédito** — conteúdos, passo a passo e suporte para reativação de benefício no INSS.
 
 - 🔗 **Site:** https://reativando.maxxicredito.com.br  
-- 💬 **Atendimento:** https://bit.ly/WhatsAppReativando
+- 💬 **WhatsApp:** https://bit.ly/WhatsAppReativando
