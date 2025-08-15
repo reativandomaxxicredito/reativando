@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
 
-# (Opcional) Bloqueios adicionais:
-# Disallow: /admin/
-# Disallow: /tmp/
-
-Sitemap: https://{{DOMINIO}}/sitemap.xml
+Sitemap: https://reativando.maxxicredito.com.br/sitemap.xml
